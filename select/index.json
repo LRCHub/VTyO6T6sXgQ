@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "殺文句",
+  "base_artist": "This is LAST",
+  "createdAt": "2026-02-20T17:37:56.517544Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "殺文句",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_殺文句_This_is_LAST.txt"
+    }
+  ]
+}
